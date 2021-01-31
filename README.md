@@ -2,7 +2,7 @@
 Solutions of the assignments, of the course 'Machine Learning' offered by 'IBM' as a part of the AI-ML specialization.
 
 ### Assignment 1 
-* Application of Python packages like numpy, pandas, matplotlib for Machine Learning
+* Application of Python packages like numpy, pandas, matplotlib for Machine Learning.
 
 
 ### Assignment 2
